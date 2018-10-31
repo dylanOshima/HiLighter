@@ -1,0 +1,22 @@
+{
+  "name": "HiLighter",
+  "version": "1.0.0",
+  "description": "A minimal web highlighting application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/dylanOshima/HiLighter",
+  "keywords": [
+    "Highlighting",
+    "text",
+    "electron",
+    "simple",
+    "Dr-O"
+  ],
+  "author": "Dr-O",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^3.0.4"
+  }
+}
